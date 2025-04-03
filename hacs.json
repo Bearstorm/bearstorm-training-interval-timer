@@ -1,0 +1,10 @@
+{
+  "name": "Bearstorm Training Interval Timer",
+  "content_in_root": false,
+  "filename": "dist/bearstorm-timer.js",
+  "type": "plugin",
+  "render_readme": true,
+  "domains": [
+    "lovelace"
+  ]
+}

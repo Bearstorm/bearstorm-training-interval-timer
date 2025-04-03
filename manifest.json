@@ -1,0 +1,12 @@
+{
+  "manifest_version": 1,
+  "name": "Bearstorm Training Interval Timer",
+  "description": "Custom Lovelace plugin for controlling workout timer via MQTT",
+  "version": "1.0.0",
+  "resources": [
+    {
+      "url": "/hacsfiles/bearstorm-training-interval-timer/bearstorm-timer.js",
+      "type": "module"
+    }
+  ]
+}
